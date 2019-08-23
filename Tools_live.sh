@@ -52,9 +52,8 @@ echo $me"       ¶¶¶¶                                     ¶¶¶¶"
 echo
 echo
 echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-echo $i  "AUTHOR   : DICKY FEBRIAN"
-echo $i  "WA       : 085707706430"
-echo $i  "YOUTUBE  : DICKY GT"
+echo $i  "AUTHOR   : RyanKP"
+echo $i  "WA       : 085×××××"
 echo $i  "TOOLS    : INSTALLER (7 TOOLS)"
 echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo
@@ -79,7 +78,7 @@ echo $cy "[8]"$me" EXIT"
 echo "=================================================="
 echo
 echo
-echo $cy"┌==="$bi"[ DICKY GT ]"
+echo $cy"┌==="$bi"[ Ryan Kp ]"
 echo $cy"¦"
 read -p">>>" pil;
 
