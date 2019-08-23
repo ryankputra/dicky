@@ -12,7 +12,7 @@ ku='\033[33;1m' #kuning
 echo
 echo
 #ini paket untuk menjalankan tools
-dicky.sh
+Ryan.sh
 echo
 clear
 echo
@@ -52,9 +52,8 @@ echo $me"       ¶¶¶¶                                     ¶¶¶¶"
 echo
 echo
 echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-echo $i  "AUTHOR   : DICKY FEBRIAN"
-echo $i  "WA       : 085707706430"
-echo $i  "YOUTUBE  : DICKY GT"
+echo $i  "AUTHOR   : RYAN KP"
+echo $i  "WA       : 085××××××
 echo $i  "TOOLS    : INSTALLER (7 TOOLS)"
 echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo
@@ -63,7 +62,7 @@ echo "###DAFTAR TOOLS###"
 echo 
 echo $cy "[1]"$bi" Brute Force Facebook"
 echo "=================================================="
-echo $cy "[2]"$i" Banguni Sahur"
+echo $cy "[2]"$i" Spam telf sms"
 echo "=================================================="
 echo $cy "[3]"$me" Skull Project"
 echo "=================================================="
@@ -79,7 +78,7 @@ echo $cy "[8]"$me" EXIT"
 echo "=================================================="
 echo
 echo
-echo $cy"┌==="$bi"[ DICKY GT ]"
+echo $cy"┌==="$bi"[ RYAN KP ]"
 echo $cy"¦"
 read -p">>>" pil;
 
@@ -151,7 +150,7 @@ echo $cy"Terima Kasih Sudah Pakai Tool Saya"
 sleep 2
 echo $i"Bila Ada Bug  Bisa Nanya Kepada Saya"
 sleep 2
-echo $i"WhatsApp :"$i" 085707706430"
-echo $bi"Facebook :"$i" Dicky Febrian"
+echo $i"WhatsApp :"$i" 085712930341"
+echo $bi"Instagram :"$i" ryankputra_"
 exit
 fi
